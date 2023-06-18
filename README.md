@@ -1,2 +1,6 @@
-# Portfolio-Website-1
+# Website inpsired by Codehal & Pars Coder
+
 My first Portfolio Website
+
+- Includes javascript interaction with CSS and HTML
+- May add more animations and interactivity for Contact page in the future.
